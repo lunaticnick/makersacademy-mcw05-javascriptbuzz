@@ -24,23 +24,21 @@ $ cd local_directory
 In order to play the game you will need to open ```SpecRunner.html``` located in root and then to use the developer console of your favourite browser.
 
 
-Then you can start playing the game by using the following command:
+Then you can start playing the game by using the following commands:
+
 
 ```
-fizzbuzz(desired_number)
-```
+javabuzz = new Javabuzz()
+Javabuzz {}
 
-Below you can see a sample of a game:
+javabuzz.says(3)
+"Java"
 
-```
-2.4.2 :001 > require_relative  "lib/fizzbuzz.rb"
- => true
-2.4.2 :002 > fizzbuzz(5)
- => "buzz"
-2.4.2 :003 > fizzbuzz(3)
- => "fizz"
-2.4.2 :004 > fizzbuzz(30)
- => "fizzbuzz"
-2.4.2 :005 > fizzbuzz(4)
- => 4
+javabuzz.says(15)
+"JavaBuzz"
+
+javabuzz.says(5)
+"Buzz"
+javabuzz.says(2)
+2
 ```
