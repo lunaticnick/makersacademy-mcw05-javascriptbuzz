@@ -39,6 +39,7 @@ javabuzz.says(15)
 
 javabuzz.says(5)
 "Buzz"
+
 javabuzz.says(2)
 2
 ```
