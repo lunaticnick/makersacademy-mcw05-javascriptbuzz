@@ -3,7 +3,7 @@
 # FizzBuzz using Javascript
 
 The goal of Fizzbuzz is to introduce you to Test Driven Development (TDD) and also it is one of the first programs that someone writes when learning a new language.
-
+So this is the implementation in Javascript.
 
 ## Specifications of Fizzbuzz
 - The program can be passed a number.
@@ -21,7 +21,7 @@ $ git clone git@github.com:lunaticnick/makersacademy-mcw05-javascriptbuzz.git lo
 $ cd local_directory
 ```
 
-In order to play the game you will need to open ```index.html``` located in root and then to use developer console of your favourite browser.
+In order to play the game you will need to open ```SpecRunner.html``` located in root and then to use the developer console of your favourite browser.
 
 
 Then you can start playing the game by using the following command:
@@ -44,8 +44,3 @@ Below you can see a sample of a game:
 2.4.2 :005 > fizzbuzz(4)
  => 4
 ```
-
-### Contributors:
-- Lars Finlay
-- Xin Wang
-- Nikolaos Sakellarios
